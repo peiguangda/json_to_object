@@ -1,0 +1,334 @@
+[
+  {
+    "id": "1",
+    "title": "１番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_01.mp3",
+    "content": "男：また、電車止まってるんだってさ。newline女：＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。newline１ よく、遅れたねnewline２ 止まるらしいねnewline３ またなんだ。困ったな",
+    "anscontent": "正答 ３ またなんだ。困ったな。",
+    "answer": "３",
+    "explain": "解説newline１ 「遅れたね」はもう終わったことについて言っているので、不適当。newline２ 「止まるらしい」は「これから止まる」の意味なので、不適当。newline３ 「またなんだ」はあきれた気持ちを表すので、正解。"
+  },
+  {
+    "id": "2",
+    "title": "２番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_02.mp3",
+    "content": "駅員：運賃不足ですね。あと５０円いただきます。newline乗客：＿＿＿＿＿＿＿＿＿。newline１ なんて失礼なnewline２ 誠に申し訳ございませんnewline３ あ、すみません",
+    "anscontent": "正答 ３ あ、すみません",
+    "answer": "３",
+    "explain": "解説newline１ 「なんて失礼な」は、「とても失礼です」という意味なのでここでは不適当。newline２ 「誠に申し訳ございません」は、非常に丁寧な謝りの表現。乗客が駅員にそんなに丁寧な謝り方をするのは不適当。"
+  },
+  {
+    "id": "3",
+    "title": "３番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_03.mp3",
+    "content": "\n        男：トイレは男性と女性どっちが2階だったっけ？newline女：＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。newline１ あ、女子用よnewline２ 3階よnewline３ あっちよ\n        ",
+    "anscontent": "正答 １ あ、女子用よ",
+    "answer": "１",
+    "explain": "解説newline２・３ 場所や方角についてきいているのではないので、不適当。 "
+  },
+  {
+    "id": "4",
+    "title": "４番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_04.mp3",
+    "content": "\n        店員：お客様、何かお探しですか。newline客：＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿。newline１ いいえ、探していませんnewline２ いいえ、見ているだけですnewline３ いいえ、けっこうです\n        ",
+    "anscontent": "正答 ２ いいえ、見ているだけです",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「何かお探しですか」は、店員が店内を見ているお客に対して話しかける言葉。「落とした物や無くした物を探しているのか」と質問しているのではないので、「いいえ、探していません」という答え方は不適当。newline３ 店員の助けが要らない場合でも、すぐに 「いいえ、けっこうです」と言うのは、失礼な感じになる。\n        "
+  },
+  {
+    "id": "5",
+    "title": "５番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_05.mp3",
+    "content": "\n        レストランの人：お会計は皆様ご一緒でよろしいですか。newline客：＿＿＿＿＿＿＿＿＿＿＿＿。newline１ あっ、別々にお願いしますnewline２ あっ、一斉にお願いしますnewline３ あっ、次々にお願いします\n        ",
+    "anscontent": "正答 １ あっ、別々にお願いします",
+    "answer": "１",
+    "explain": "\n        解説newline２ 「一斉に」は多くの人が一度に同じことをするという意味なので、不適当。newline３ 「次々に」は多くの人が順番にすぐ続いてするという意味なので、不適当。\n        "
+  },
+  {
+    "id": "6",
+    "title": "６番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_06.mp3",
+    "content": "\n        レストランの人：コーヒーのお代り、いかがですか。newline客：＿＿＿＿＿＿＿＿＿＿＿。newline１ はい、お願いしますnewline２ はい、代りますnewline３ いいえ、代えません\n        ",
+    "anscontent": "正答 １ はい、お願いします",
+    "answer": "１",
+    "explain": "\n        解説newline２・３「お代り」は、「もう１杯ください」という意味で、「代わる」という意味ではないので、「代わります／代えません」という答え方は不適当。\n        "
+  },
+  {
+    "id": "7",
+    "title": "７番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_07.mp3",
+    "content": "\n        店の人：お会計の領収書、いかがなさいますか。newline客：＿＿＿＿＿＿＿＿＿＿＿。newline１ あ、いりませんnewline２ サインしますnewline３ かしこまりました\n        ",
+    "anscontent": "正答 １ あ、いりません",
+    "answer": "１",
+    "explain": "\n        解説newline２ 「領収書」に客はサインしないので、不適当。newline３ 「いかがなさいますか」の問いに「かしこまりました」と答えるのは、不適当。\n        "
+  },
+  {
+    "id": "8",
+    "title": "８番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_08.mp3",
+    "content": "\n        レストランの人：ありがとうございました。newline客：＿＿＿＿＿＿＿＿＿＿＿。newline１ さようならnewline２ ごちそうさまでしたnewline３ ご苦労さま\n        ",
+    "anscontent": "正答 ２ ごちそうさまでした",
+    "answer": "２"
+  },
+  {
+    "id": "9",
+    "title": "９番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_09.mp3",
+    "content": "\n        ホテルの人：こちらのシングルルームインターネットが使えませんが、よろしいでしょうか。newline客：＿＿＿＿＿＿＿＿＿＿＿＿＿＿。newline１ いいえ、けっこうですnewline２ はい、けっこうですnewline３ いいえ、かまいません\n        ",
+    "anscontent": "正答 ２ はい、けっこうです",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「よろしいでしょうか」に「いいえ」と答えると、「よくない」の意味になるので、不適当。newline３ 「はい、かまいません」が正しい言い方。\n        "
+  },
+  {
+    "id": "10",
+    "title": "１０番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_10.mp3",
+    "content": "\n        男：あのう、荷物がじゃまで通れないんだけど…。newline女：＿＿＿＿＿＿＿＿＿＿＿＿。newline１ すみません。おじゃましますnewline２ 申し訳ありません。気にしないでnewline３ すみません。気がつきませんでした\n        ",
+    "anscontent": "正答 ３ すみません。気がつきませんでした",
+    "answer": "３",
+    "explain": "\n        解説newline１ 「おじゃまします」は訪問するときなどのあいさつなので、不適当。newline２ 「気にしないで」は「心配しないで」という意味なので、不適当。\n        "
+  },
+  {
+    "id": "11",
+    "title": "１１番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_11.mp3",
+    "content": "\n        男：お子様はおいくつですか。newline女：＿＿＿＿＿＿＿＿＿＿＿。newline１ １人ですnewline２ ４歳ですnewline３ １２０センチです\n        ",
+    "anscontent": "正答 ２ ４歳です",
+    "answer": "２",
+    "explain": "\n        解説newline１・３ 「おいくつですか」は「何歳ですか」の意味で人数や身長をきいているのではないので、不適当。newlineほかの答え方newline・よっつです。\n        "
+  },
+  {
+    "id": "12",
+    "title": "１２番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_12.mp3",
+    "content": "\n        男：今日は、お招きくださって、ありがとうございました。そろそろ失礼いたします。newline女：＿＿＿＿＿＿＿＿＿＿＿＿。newline１ そうですか。また、帰ってくださいnewline２ そうですか。また、いらっしゃってくださいnewline３ では、また、失礼いたします\n        ",
+    "anscontent": "正答 ２ そうですか。また、いらっしゃってください",
+    "answer": "２",
+    "explain": "\n        解説newline３ 「では、また、失礼いたします」は帰る人の挨拶なので、不適当。newlineほかの答え方newline・また、来てください。\n        "
+  },
+  {
+    "id": "13",
+    "title": "１３番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_13.mp3",
+    "content": "\n        男：お母様によろしくお伝えください。newline女：＿＿＿＿＿＿＿＿＿＿＿＿。newline１ ありがとうございます。よろしくと言いますnewline２ ありがとうございます。申し上げますnewline３ ありがとうございます。申し伝えます\n        ",
+    "anscontent": "正答 ３ ありがとうございます。申し伝えます",
+    "answer": "３",
+    "explain": "\n        解説newline２ 自分の母親に敬語は使わないので、不適当。newline３ 「申し伝えます」は「伝えます」の謙譲表現なので、正解。\n        "
+  },
+  {
+    "id": "14",
+    "title": "１４番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_14.mp3",
+    "content": "\n        医者：風邪のようですね…。お薬、出しておきましょうか。newline患者：＿＿＿＿＿＿＿＿＿＿＿。newline１ あのー、薬は、ちょっと…newline２ あのー、薬は、食べたくないんですが…newline３ あのー、薬は、そこに置かないでください\n        ",
+    "anscontent": "正答 １ あのー、薬は、ちょっと…",
+    "answer": "１",
+    "explain": "\n        解説newline１ 「ちょっと…」は断り表現なので、正解。newline２ 日本語では、薬は「食べる」ではなく、「飲む」と言うので、不適当。newline３ 「お薬、出しておきましょう」は、「出して、どこかに置く」ということではないので、不適当。\n        "
+  },
+  {
+    "id": "15",
+    "title": "１５番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_15.mp3",
+    "content": "\n        男：妻が入院してましてね。newline女：＿＿＿＿＿＿。newline１ 悪いですね。お大事にしてくださいnewline２ それは、ご心配ですね。お大事にしてくださいnewline３ そうですか。心配していますか。大変ですね\n        ",
+    "anscontent": "正答 ２ それは、ご心配ですね。お大事にしてください",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「悪いですね」は謝る時の表現なので、不適当。newline３ 心配しているのは当然なので、「心配していますか」という質問は不適当。newlineほかの答え方newline・それは、ご心配ですね。\n        "
+  },
+  {
+    "id": "16",
+    "title": "１６番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_16.mp3",
+    "content": "\n        男：この劇場、先月できたばかりなんだよ。newline女：＿＿＿＿＿＿＿＿。newline１ そうなんだ。だから、駅から近くて便利よねnewline２ そうなんだ。だから、床もぴかぴかで、汚れてないよねnewline３ そうなんだ。だから、もう古い感じがするよね\n        ",
+    "anscontent": "正答 ２ そうなんだ。だから、床もぴかぴかで、汚れてないよね",
+    "answer": "２",
+    "explain": "解説newline１ 駅から近いかどうかは、新しさと関係がないので、不適当。 "
+  },
+  {
+    "id": "17",
+    "title": "１７番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_17.mp3",
+    "content": "\n        男：バイクに乗せてやるよ。はい、ヘルメット。newline女：＿＿＿＿＿＿＿＿＿＿？newline１ これ、かぶんなくちゃいけないのnewline２ これ着なくちゃだめなのnewline３ こんな重いの、はくの\n        ",
+    "anscontent": "正答 １ これ、かぶんなくちゃいけないの",
+    "answer": "１",
+    "explain": "\n        解説newline１ ヘルメットは「かぶる」物なので、正解。newline２ 「着る」は上着やコートなど上半身・身体全体に衣服をつけるときに使う言葉なので、不適当。newline３ 「はく」はズボンやスカートやくつなど下半身に衣服をつけるときに使う言葉なので、不適当。\n        "
+  },
+  {
+    "id": "18",
+    "title": "１８番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_18.mp3",
+    "content": "\n        女：新幹線は速いね。いつの間にかもう大阪だ。newline男：＿＿＿＿＿＿＿＿＿。newline１ えっ、いつですかnewline２ うん、さすがだねnewline３ いや、３時間だよ\n        ",
+    "anscontent": "正答 ２ うん、さすがだね",
+    "answer": "２",
+    "explain": "\n        解説newline２ 「さすが」はほめ言葉なので、正解。newline３ 時間をきかれたのではないので、不適当。\n        "
+  },
+  {
+    "id": "19",
+    "title": "１９番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_19.mp3",
+    "content": "\n        女子学生：来週のボランティア、だれか手伝ってくれる人いないかなぁ。newline男子学生：＿＿＿＿＿＿＿＿＿。newline１ うん、いないよnewline２ 田中君に聞いてみたらnewline３ 今週ならいいよ\n        ",
+    "anscontent": "正答 ２ 田中君に聞いてみたら",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「いないかな」は「いるでしょうか」という意味なので、「うん、いないよ」は不適当。newline３ 来週ときかれているのに、「今週」といっているので、不適当。newlineほかの答え方newline・田中君が手伝ってくれるんじゃない？newline・田中君が手伝ってくれると思うよ。\n        "
+  },
+  {
+    "id": "20",
+    "title": "２０番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_20.mp3",
+    "content": "\n        男子学生：この頃，勉強で疲れてて、夜あんまり寝られないんだ。newline女子学生：＿＿＿＿＿＿＿＿＿。newline１ どうぞ、お大事にnewline２ 無理しないでねnewline３ 本当に残念だね\n        ",
+    "anscontent": "正答 ２ 無理しないでね",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「どうぞ、お大事に」は病気の人を心配して言う表現なので、不適当。newline３ 「本当に残念だね」は満足できない時や悔しい時に使う表現なので、不適当。newlineほかの答え方newline・じゃ、少し休んだら。newline・あまり無理しないほうがいいよ。\n        "
+  },
+  {
+    "id": "21",
+    "title": "２１番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_21.mp3",
+    "content": "\n        女：この教室、ずいぶん暑いね。newline男：＿＿＿＿＿＿＿＿＿＿。newline１ じゃ、クーラーをつけるようにしてnewline２ じゃ、クーラーをつけるはずだnewline３ じゃ、クーラーをつけようか\n        ",
+    "anscontent": "正答 ３ じゃ、クーラーをつけようか",
+    "answer": "３",
+    "explain": "\n        解説newline１ 「～をつけるようにして」は一度ではなく、いつも「～するように努力をしている」時に使うので、不適当。newline２ 「～はずだ」は自分の行動を予測する時には使えないので、不適当。newlineほかの答え方newline・じゃ、クーラーをつけたら？newline・じゃ、クーラーをつけた方がいいね。newline・じゃ、クーラーつければ？\n        "
+  },
+  {
+    "id": "22",
+    "title": "２２番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_22.mp3",
+    "content": "\n        男：君の盗まれた自転車，見つかったって？newline女：＿＿＿＿＿＿＿＿＿＿。newline１ ああ、よかったnewline２ おかげさまでnewline３ おめでとう\n        ",
+    "anscontent": "正答 ２ おかげさまで",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「自転車、見つかったって」は「見つかったと聞いたけど、本当ですか」という意味なので、「ああ、よかった」と答えるのは、不適当。newline２ 「おかげさまで」は相手に感謝したり、挨拶で使ったりする表現なので、正解。newline３ 「おめでとう」はお祝いの言葉なので、不適当。\n        "
+  },
+  {
+    "id": "23",
+    "title": "２３番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_23.mp3",
+    "content": "\n        女子学生：先月、学生会館から引っ越ししたんだ。newline男子学生：＿＿＿＿＿＿＿＿＿＿newline１ それは大変そうだね。newline２ え、どこに？newline３ ふーん、だれと？\n        ",
+    "anscontent": "正答 ２ え、どこに？",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「それは大変だね」は引っ越ししたことが大変かどうかわからないので、不適当。newline３ 「ふーん、だれと」は、一緒に引っ越しをした人については、言っていないので、不適当。\n        "
+  },
+  {
+    "id": "24",
+    "title": "２４番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_24.mp3",
+    "content": "\n        男子学生：あーあ、この間の試験の結果、すごく悪かったんだ。newline女子学生：＿＿＿＿＿＿＿。newline１ でも、次こそ受かるよnewline２ そう、今度は頑張るよnewline３ じゃ、もっと勉強しないとね\n        ",
+    "anscontent": "正答 ３ じゃ、もっと勉強しないとね",
+    "answer": "３",
+    "explain": "\n        解説newline１ 合格、不合格について話しているのではないので、不適当。newline２ 「今度は頑張るよ」は頑張る人が自分になるので、不適当。newlineほかの答え方newline・今度頑張ればいいよ。\n        "
+  },
+  {
+    "id": "25",
+    "title": "２５番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_25.mp3",
+    "content": "\n        男：試験合格したよ。newline女：＿＿＿＿＿＿＿＿＿。newline１ すごい。たいへんだよnewline２ すごい。やったねnewline３ 運がよかったね\n        ",
+    "anscontent": "正答 ２ すごい。やったね",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「たいへんだ」は困難な時に使うので、不適当。newline３ この場合「運がいい」は失礼なので、不適当。\n        "
+  },
+  {
+    "id": "26",
+    "title": "２６番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_26.mp3",
+    "content": "\n        女：あの、ちょっと頼みたいことがあるんですが…。newline男：＿＿＿＿＿＿＿＿＿＿。newline１ 何ですかnewline２ はい、そうですかnewline３ ええ、わかりました\n        ",
+    "anscontent": "正答 １ 何ですか",
+    "answer": "１",
+    "explain": "解説newline２・３ まだ何も相手の話の内容を聞いていないので、不適当。 "
+  },
+  {
+    "id": "27",
+    "title": "２７番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_27.mp3",
+    "content": "\n        女：あの、英語で作文書いたんだけど、まちがいがあるかどうか、見てくれない。newline男：＿＿＿＿＿＿＿＿。newline１ 僕だって忙しいんだし、ほかの人に頼んでみてくれる？newline２ ごめん、今、僕も論文で忙しくて、ゆっくり見られないんだ。みちがえると悪いし…。newline３ 忙しいし、気が向かないし。すみません。\n        ",
+    "anscontent": "正答 ２ ごめん、今、僕も論文で忙しくて、ゆっくり見られないんだ。まちがえると悪いし…。",
+    "answer": "２",
+    "explain": "\n        解説newline２ できない理由をはっきり言って、丁寧に断っているので、正解。newline３ 「気が向かない」などと言わない方がいいので、不適当。\n        "
+  },
+  {
+    "id": "28",
+    "title": "２８番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_28.mp3",
+    "content": "\n        教授：君、最近授業中に居眠りばかりしてるね。それに、遅刻も多いよ。newline学生：＿＿＿＿＿＿＿＿＿。newline１ 失礼いたします。すみませんでしたnewline２ 承知いたしましたnewline３ 申し訳おりません。以後、気を付けます\n        ",
+    "anscontent": "正答 ３ 申し訳おりません。以後、気を付けます",
+    "answer": "３",
+    "explain": "\n        解説newline１ 「失礼いたします」は、挨拶なので、不適当。newline２ 「承知いたしました」は、「わかりました」という意味なので、不適当。\n        "
+  },
+  {
+    "id": "29",
+    "title": "２９番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_29.mp3",
+    "content": "\n        女：この間、せっかくパーティーに誘ってもらったのに、行けなくてすみませんでした。newline男：＿＿＿＿＿＿＿＿＿＿＿。newline１ いいえ、いいんですよ。また、今度いらっしゃってくださいnewline２ いいえ、来なくてもよかったですよnewline３ はい、いいでしょう。また、誘いますから\n        ",
+    "anscontent": "正答 １ いいえ、いいんですよ。また、今度いらっしゃってください",
+    "answer": "１",
+    "explain": "解説newline２ 丁寧ではないので、不適当。 "
+  },
+  {
+    "id": "30",
+    "title": "３０番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_30.mp3",
+    "content": "\n        男：先日は、京都のお土産をありがとうございました。newline女：＿＿＿＿＿＿＿＿＿＿。newline１ はい、心だけですnewline２ いいえ、失礼しましたnewline３ いえ、ほんの気持ちだけです\n        ",
+    "anscontent": "正答 ３ いえ、ほんの気持ちだけです",
+    "answer": "３",
+    "explain": "\n        解説newline１ 「いいえ、ほんの心ばかりで」が正しい言い方なので、不適当。newline２ 「お土産をありがとうございました」に答えるのに、「失礼しました」は不適当。\n        "
+  },
+  {
+    "id": "31",
+    "title": "３１番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_31.mp3",
+    "content": "\n        男：もしもし、うちの者ですが、山下お願いします。newline女：＿＿＿＿＿＿＿＿＿。newline１ おうちの方でいらっしゃいますか、ただ今、お呼びしますnewline２ おうちの方ですか、すぐ呼びますnewline３ おうちの方でいらっしゃいますか、すぐ呼んで参ります\n        ",
+    "anscontent": "正答 １ おうちの方でいらっしゃいますか、ただ今、お呼びします",
+    "answer": "１",
+    "explain": "\n        解説newline２ 丁寧さが足りないので、不適当。newline３ 自社の社員について、他者の人に話すときは、謙譲表現を使うが、自社の社員でも、その社員の家族に対しては、敬語を使う。「呼んで参ります」は、謙譲表現なので、不適当。\n        "
+  },
+  {
+    "id": "32",
+    "title": "３２番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_32.mp3",
+    "content": "\n        女：今のお話、よくわからないんですが、わかりやすく説明していただけますか。newline男：＿＿＿＿＿＿＿＿＿＿。newline１ 失礼いたしました、頭が混乱してしまいました。もう一度ご説明いたしますnewline２ 失礼いたしました、話が混乱してしまいました。もう一度ご説明いたしますnewline３ 失礼いたしました、話が混雑してしまいました。もう一度ご説明いたします\n        ",
+    "anscontent": "正答 ２ 失礼いたしました、話が混乱してしまいました。もう一度ご説明いたします",
+    "answer": "２",
+    "explain": "解説newline３ 「話が混雑する」という表現はない。 "
+  },
+  {
+    "id": "33",
+    "title": "３３番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_33.mp3",
+    "content": "\n        社員Ａ：どなたかご意見がありますか。newline社員Ｂ：＿＿＿＿＿＿。newline１ その話、発言してもよろしいでしょうかnewline２ そのこと、発言してもよろしいでしょうかnewline３ その件について、発言してもよろしいでしょうか\n        ",
+    "anscontent": "正答 ３ その件について、発言してもよろしいでしょうか",
+    "answer": "３",
+    "explain": "解説newline１・２ 会議などの正式の場では、使わない。丁寧さが足りない表現なので、不適当。 "
+  },
+  {
+    "id": "34",
+    "title": "３４番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_34.mp3",
+    "content": "\n        社長：君、この間のプレゼンすばらしかったよ。newline社員：＿＿＿＿＿＿＿＿。newline１ 社長、おそれいります。がんばりますnewline２ 社長、よかったね。がんばりますnewline３ 社長、そうですか。がんばります\n        ",
+    "anscontent": "正答 １ 社長、おそれいります。がんばります",
+    "answer": "１",
+    "explain": "解説newline２・３ ビジネスでは、丁寧に話さなければならないので、不適当。 "
+  },
+  {
+    "id": "35",
+    "title": "３５番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_35.mp3",
+    "content": "\n        受付の人：社長はただ今、外出中で 20 分ほどで戻ってまいります。newline他社の人：＿＿＿＿＿＿＿＿＿。newline１ では、こちらでお待ちいただきたいと思いますがnewline２ では、待たせていただいても、よろしいでしょうかnewline３ では、お待たせいたしても、よろしいでしょうか\n        ",
+    "anscontent": "正答 ２ では、待たせていただいても、よろしいでしょうか",
+    "answer": "２",
+    "explain": "\n        解説newline１ 「お待ちいただきたい」は「待ってください」と言う意味なので、不適当。newline３ 「お待たせいたしても」は、他の人を「待たせる」と言う意味なので、不適当。\n        "
+  },
+  {
+    "id": "36",
+    "title": "３６番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_36.mp3",
+    "content": "\n        部長：どう。ホテルの建設工事は、進んでいるかね？newline社員：＿＿＿＿＿＿＿＿。newline１ はい、ちゃくちゃくとnewline２ はい、さっさとnewline３ はい、さっそく\n        ",
+    "anscontent": "正答 １ はい、ちゃくちゃくと",
+    "answer": "１",
+    "explain": "\n        解説newline１ 「ちゃくちゃくと」は物事が予定や順番どおりに問題なく進んでいる様子なので、正解。newline２ 「さっさと」は「問題なく進む」という意味がないので、不適当。newline３ 「さっそく」はすぐに何かを始める時の様子なので、不適当。\n        "
+  },
+  {
+    "id": "37",
+    "title": "３７番",
+    "mp3link": "N3Listen/Audio/N3_KIKU_A_37.mp3",
+    "content": "\n        女：すみません、今そちらに向かっているんですが、渋滞でお約束の時間に伺えそうもないんです。newline男：＿＿＿＿＿＿＿＿＿。newline１ そうですか。じゃ、何時でしょうか。早く来てくださいnewline２ そうですか。何時頃になりそうでしょうかnewline３ 何時にいらっしゃるご予定でしょうか\n        ",
+    "anscontent": "正答 ２ そうですか。何時頃になりそうでしょうか",
+    "answer": "２",
+    "explain": "\n        解説newline１ 丁寧な言い方ではないので、不適当。newline３ 「遅れそう」といっているので、はっかりとした予定はきけないので、不適当。\n        "
+  }
+]
