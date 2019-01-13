@@ -3,7 +3,7 @@
 npm install
 
 2.
-node index.js
+node index.js [number]
 
 3.
 See output
