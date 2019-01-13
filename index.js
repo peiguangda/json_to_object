@@ -38,7 +38,7 @@ fs.readFile('./data/part' + process.argv[2] + '.json', 'utf8', function (err, da
     console.log(obj);
     obj.forEach(function (object) {
         var content = object.content;
-        var anscontent = object.anscontent;
+        // var anscontent = object.anscontent;
         var answer = object.answer;
         var explain = object.explain;
         var mp3link = BASE_LINK.concat(object.mp3link);
@@ -49,41 +49,45 @@ fs.readFile('./data/part' + process.argv[2] + '.json', 'utf8', function (err, da
         // var explain = obj[0].explain;
         // var mp3link = BASE_LINK.concat(obj[0].mp3link);
         var answer1, answer2, answer3, answer4, question;
+        answer1 = object.anscontent1;
+        answer2 = object.anscontent2;
+        answer3 = object.anscontent3;
+        answer4 = object.anscontent4;
 
         explain = replace_string(explain, "newline");
         content = replace_string(content, "newline");
-        answer1 = get_answer("１", content);
-        answer2 = get_answer("２", content);
-        answer3 = get_answer("３", content);
-        answer4 = get_answer("４", content);
+        // answer1 = answer1.replace("1 ", "");
+        // answer2 = answer1.replace("2 ", "");
+        // answer3 = answer1.replace("3 ", "");
+        // answer4 = answer1.replace("4 ", "");
         question = content.replace(answer1, "").replace(answer2, "").replace(answer3, "").replace(answer4, "").trim();
         // question = "#." + question;
-        explain = "$b." + question + anscontent + explain;
+        explain = "$b." + question + explain;
         // console.log(answer);
         // console.log(mp3link);
 
         if (answer1.includes(answer)) {
-            answer1 = answer1.replace("１", "*.");
-            answer2 = answer2.replace("２", "");
-            answer3 = answer3.replace("３", "");
-            answer4 = answer4.replace("４", "");
+            answer1 = answer1.replace("1 ", "*.");
+            answer2 = answer2.replace("2 ", "");
+            answer3 = answer3.replace("3 ", "");
+            answer4 = answer4.replace("4 ", "");
         } else if (answer2.includes(answer)) {
-            answer2 = answer2.replace("２", "*.");
-            answer1 = answer1.replace("１", "");
-            answer3 = answer3.replace("３", "");
-            answer4 = answer4.replace("４", "");
+            answer2 = answer2.replace("2 ", "*.");
+            answer1 = answer1.replace("1 ", "");
+            answer3 = answer3.replace("3 ", "");
+            answer4 = answer4.replace("4 ", "");
             [answer2, answer1] = [answer1, answer2];
         } else if (answer3.includes(answer)) {
-            answer3 = answer3.replace("３", "*.");
-            answer2 = answer2.replace("２", "");
-            answer1 = answer1.replace("１", "");
-            answer4 = answer4.replace("４", "");
+            answer3 = answer3.replace("3 ", "*.");
+            answer2 = answer2.replace("2 ", "");
+            answer1 = answer1.replace("1 ", "");
+            answer4 = answer4.replace("4 ", "");
             [answer3, answer1] = [answer1, answer3];
         } else {
-            answer4 = answer4.replace("４", "*.");
-            answer2 = answer2.replace("２", "");
-            answer3 = answer3.replace("３", "");
-            answer1 = answer1.replace("１", "");
+            answer4 = answer4.replace("4 ", "*.");
+            answer2 = answer2.replace("2 ", "");
+            answer3 = answer3.replace("3 ", "");
+            answer1 = answer1.replace("1 ", "");
             [answer4, answer1] = [answer1, answer4];
         }
         console.log(question);
